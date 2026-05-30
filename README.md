@@ -4,11 +4,6 @@ A simple Android application demonstrating the use of `RecyclerView` with a cust
 
 ---
 
-## Screenshots
-
-> Add your screenshots here.
-
----
 
 ## Features
 
